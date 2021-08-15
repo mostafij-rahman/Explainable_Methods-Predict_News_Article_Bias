@@ -7,4 +7,4 @@ Please download the dataset from https://github.com/ramybaly/Article-Bias-Predic
 The Predict_Bias_in_News_Article_LIME.ipynb notebook contains a multiclass logistic regression model for article bias prediction. LIME is used for explaining the predictions.
 
 ## Requirements
-Install tensorflow>=2.2.0 with gpu support, transformer, matplotlib, scikit-learn, and spacy.
+Install the requirements.txt file to get the required libraries.
