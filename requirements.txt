@@ -18,6 +18,7 @@ scipy
 spacy
 seaborn
 lime
+shap==0.38.1
 wget
 imgaug
 ipython
