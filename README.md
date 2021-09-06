@@ -8,4 +8,4 @@ Please download the dataset from https://github.com/ramybaly/Article-Bias-Predic
 2. The Predict_Bias_in_News_Article_LR-Model_SHAP.ipynb notebook contains a multiclass logistic regression model for article bias prediction with SHAP explanation.
 
 ## Requirements
-Install the requirements.txt file to get the required libraries. Additionally you need to install shap==0.38.1 library using 'pip install shap==0.38.1'.
+Install the requirements.txt file to get the required libraries.
